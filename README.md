@@ -11,10 +11,14 @@ The user keeps guessing letters until one of the following happens:
 2. The user has made eight incorrect guesses.
 
 Upon every incorrect guess, the hangman model is completed step by step.
+The word bank is stored in **HANGMAN.txt** file.  
 
 ## Requirements
 > Python  
 > [Graphics](https://pypi.org/project/graphics.py/) Module  
+
+## Instructions
+> Run Hangman.py
 
 ## Improvements
 Can be deployed in Gitpod with some extra features like for hints etc.  
